@@ -1,0 +1,16 @@
+.nav-item  .nav-link:hover{
+  background-color:red;
+ }
+section.photo{
+background-image: url("../images/156.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+background-position: center center;
+text-align: center;
+}
+section.photo .txt-int{
+	padding-top: 200px;
+	padding-bottom: 300px;
+	text-align: center;
+}
